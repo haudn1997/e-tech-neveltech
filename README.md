@@ -15,7 +15,6 @@
 *   **Build Tool**: [Vite](https://vitejs.dev/)
 *   **Ngôn ngữ**: [TypeScript](https://www.typescriptlang.org/)
 *   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-*   **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
 
 ## 📸 Ảnh chụp màn hình
 
@@ -62,13 +61,4 @@ Làm theo các hướng dẫn sau để cài đặt và chạy dự án trên m�
 npm run dev
 ```
 
-Mở [http://localhost:8080](http://localhost:8080) (hoặc một cổng khác nếu 5173 đã được sử dụng) trong trình duyệt của bạn để xem ứng dụng.
-
-## 📜 Các kịch bản có sẵn
-
-Trong thư mục dự án, bạn có thể chạy:
-
-*   `npm run dev`: Chạy ứng dụng ở chế độ phát triển.
-*   `npm run build`: Xây dựng ứng dụng cho môi trường sản xuất.
-*   `npm run lint`: Chạy ESLint để kiểm tra lỗi code.
-*   `npm run preview`: Chạy bản dựng sản xuất đã được xây dựng.
+Mở [http://localhost:8080](http://localhost:8080) (hoặc một cổng khác nếu 8080 đã được sử dụng) trong trình duyệt của bạn để xem ứng dụng.
