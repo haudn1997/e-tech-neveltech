@@ -1,0 +1,1 @@
+export const menuItems = ["HOME", "ITEMS1", "ITEMS2", "ITEMS3", "ITEMS4"]; 
